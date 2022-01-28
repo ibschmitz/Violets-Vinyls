@@ -1,0 +1,62 @@
+/* Write your CSS here - remember to add Id's or classes to the HTML file */
+body {
+  background-color: black;
+  color: white;
+}
+h1 {
+  font-family: "Segoe UI", Verdana, sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  background-image: url("./img/Records.jpg");
+  text-align: center;
+  background-size: cover;
+}
+#ourselection {
+  font-family: "Segoe UI", Verdana, sans-serif;
+  font-size: 25px;
+  background-color: #ef8354;
+  font-weight: bold;
+  text-align: center;
+}
+#discsimg {
+  width: 500px;
+}
+#vinylimg {
+  width: 500px;
+}
+#micimg {
+  width: 500px;
+}
+h3 {
+  font-family: "Segoe UI", Verdana, sans-serif;
+}
+p {
+  font-family: "Segoe UI", Verdana, sans-serif;
+  font-size: 15px;
+}
+#sale {
+  font-weight: bold;
+}
+#selling {
+  font-family: "Segoe UI", Verdana, sans-serif;
+  font-size: 25px;
+  background-color: #0e7c7b;
+  font-weight: bold;
+  text-align: center;
+}
+#livemusicandsigning {
+  font-family: "Segoe UI", Verdana, sans-serif;
+  font-size: 25px;
+  background-color: #0e7c7b;
+  font-weight: bold;
+  text-align: center;
+}
+a:visited {
+  color: green;
+}
+a:hover {
+  color: blue;
+}
+a {
+  color: #ef8354;
+}
